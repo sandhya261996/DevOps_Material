@@ -1,0 +1,1 @@
+"Demo concept for Git Squash 'Rebase'"
